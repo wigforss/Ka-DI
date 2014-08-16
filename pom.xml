@@ -9,7 +9,7 @@
 	<artifactId>ka-di-api</artifactId>
 	<version>0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
-	<name>Ka Commons Beans</name>
+	<name>Ka DI</name>
 	<url>http://kasource.org</url>
 	
 	<description>
