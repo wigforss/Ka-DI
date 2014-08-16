@@ -1,4 +1,4 @@
-package org.kasource.commons.bean;
+package org.kasource.di.bean;
 
 /**
  * Exception thrown by BeanResolver if no bean can be resolved.

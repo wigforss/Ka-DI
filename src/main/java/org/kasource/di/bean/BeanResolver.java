@@ -1,4 +1,4 @@
-package org.kasource.commons.bean;
+package org.kasource.di.bean;
 
 import java.lang.annotation.Annotation;
 import java.util.Set;
